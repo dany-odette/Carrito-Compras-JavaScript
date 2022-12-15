@@ -47,7 +47,7 @@ async function fetchProductos() {
 				</div>
 				<div class="card-body">
 					<img src=${producto.imagen} class="card-img-top" alt=${producto.marca}>
-					<h1 class="card-title pricing-card-title precio">S/. <span class="">${
+					<h1 class="card-title pricing-card-title precio"> $ <span class="">${
 						producto.precio
 					}</span></h1>
 
