@@ -2,21 +2,21 @@
 	{
 		"id": 1,
 		"marca": "BODY BURDEO",
-		"imagen": "img/bodyburdeo.png",
+		"imagen": "img/body burdeo.png",
 		"precio": "8.990",
 		"detalles": ["MANGAS LARGAS", "COLOR BURDEO", "CON VULITOS"]
 	},
 	{
 		"id": 2,
 		"marca": "ACER",
-		"imagen": "img/acer.jpg",
+		"imagen": "img/body café.png",
 		"precio": "3000",
 		"detalles": ["16 GB RAM", "COLOR NEGRO", "1 TB DD"]
 	},
 	{
 		"id": 3,
 		"marca": "LENOVO",
-		"imagen": "img/lenovo.jpg",
+		"imagen": "img/body negro.png",
 		"precio": "4000",
 		"detalles": ["4 GB RAM", "COLOR PLATEADO", "1 TB DD"]
 	},
