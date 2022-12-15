@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"marca": "HP PAVILION",
+		"marca": "BODY",
 		"imagen": "img/hp1.jpg",
 		"precio": "5000",
 		"detalles": ["8 GB RAM", "COLOR PLATEADO", "256 GB DISCO SSD"]
