@@ -11,14 +11,14 @@
 		"marca": "BODY CAFÉ",
 		"imagen": "img/body café.png",
 		"precio": "8.990",
-		"detalles": ["16 GB RAM", "COLOR NEGRO", "1 TB DD"]
+		"detalles": ["MANGAS CORTAS", "COLOR CAFÉ", "CON VUELITOS"]
 	},
 	{
 		"id": 3,
 		"marca": "BODY NEGRO",
 		"imagen": "img/body negro.png",
 		"precio": "8.990",
-		"detalles": ["4 GB RAM", "COLOR PLATEADO", "1 TB DD"]
+		"detalles": ["MANGAS LARGAS", "COLOR NEGRO", " SIN VUELITOS"]
 	},
 	{
 		"id": 4,
