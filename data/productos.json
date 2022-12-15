@@ -23,7 +23,7 @@
 	{
 		"id": 4,
 		"marca": "APPLE",
-		"imagen": "img/apple.jpg",
+		"imagen": "img/",
 		"precio": "5900",
 		"detalles": ["1", "2", "3"]
 	},
