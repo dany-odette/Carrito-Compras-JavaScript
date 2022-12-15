@@ -3,21 +3,21 @@
 		"id": 1,
 		"marca": "BODY BURDEO",
 		"imagen": "img/bodyburdeo.png",
-		"precio": "8.990",
+		"precio": "8990",
 		"detalles": ["MANGAS LARGAS", "COLOR BURDEO", "CON VULITOS"]
 	},
 	{
 		"id": 2,
 		"marca": "BODY CAFÉ",
 		"imagen": "img/bodycafé.png",
-		"precio": "8.990",
+		"precio": "8990",
 		"detalles": ["MANGAS CORTAS", "COLOR CAFÉ", "CON VUELITOS"]
 	},
 	{
 		"id": 3,
 		"marca": "BODY NEGRO",
 		"imagen": "img/bodynegro.png",
-		"precio": "8.990",
+		"precio": "8990",
 		"detalles": ["MANGAS LARGAS", "COLOR NEGRO", " SIN VUELITOS"]
 	},
 	{
