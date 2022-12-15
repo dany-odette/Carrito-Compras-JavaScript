@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"marca": "BODY BURDEO",
-		"imagen": "img/",
+		"imagen": "img/bodyburdeo.png",
 		"precio": "8.990",
 		"detalles": ["MANGAS LARGAS", "COLOR BURDEO", "CON VULITOS"]
 	},
