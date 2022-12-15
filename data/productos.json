@@ -25,41 +25,41 @@
 		"marca": "APPLE",
 		"imagen": "img/apple.jpg",
 		"precio": "5900",
-		"detalles": ["8 GB RAM", "COLOR GOLD", "128 GB DD"]
+		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 5,
 		"marca": "HUAWEI",
-		"imagen": "img/huawei.jpg",
+		"imagen": "img/",
 		"precio": "5769",
-		"detalles": ["8 GB RAM", "COLOR NEGRO", "256 GB DD"]
+		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 6,
 		"marca": "SAMSUNG",
-		"imagen": "img/samsung.jpg",
+		"imagen": "img/",
 		"precio": "2599",
-		"detalles": ["4 GB RAM", "COLOR BLANCO", "64 GB DD"]
+		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 7,
 		"marca": "LG",
-		"imagen": "img/lg.jpg",
+		"imagen": "img/",
 		"precio": "4299",
-		"detalles": ["8 GB RAM", "COLOR PLATEADO", "256 GB DD"]
+		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 8,
 		"marca": "ADVANCE",
-		"imagen": "img/advance.jpg",
+		"imagen": "img/",
 		"precio": "869",
-		"detalles": ["3 GB RAM", "COLOR NEGRO", "64 GB DD"]
+		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 9,
 		"marca": "DELL",
-		"imagen": "img/dell.jpg",
+		"imagen": "img/",
 		"precio": "5397",
-		"detalles": ["8 GB RAM", "COLOR NEGRO", "1 TB DD"]
+		"detalles": ["1", "2", "3"]
 	}
 ]
