@@ -22,44 +22,44 @@
 	},
 	{
 		"id": 4,
-		"marca": "APPLE",
+		"marca": "A",
 		"imagen": "img/",
-		"precio": "5900",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 5,
-		"marca": "HUAWEI",
+		"marca": "H",
 		"imagen": "img/",
-		"precio": "5769",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 6,
-		"marca": "SAMSUNG",
+		"marca": "S",
 		"imagen": "img/",
-		"precio": "2599",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 7,
-		"marca": "LG",
+		"marca": "L",
 		"imagen": "img/",
-		"precio": "4299",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 8,
-		"marca": "ADVANCE",
+		"marca": "A",
 		"imagen": "img/",
-		"precio": "869",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	},
 	{
 		"id": 9,
-		"marca": "DELL",
+		"marca": "D",
 		"imagen": "img/",
-		"precio": "5397",
+		"precio": "8990",
 		"detalles": ["1", "2", "3"]
 	}
 ]
